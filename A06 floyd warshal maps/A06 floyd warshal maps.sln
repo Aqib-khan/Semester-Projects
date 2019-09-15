@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A06 floyd warshal maps", "A06 floyd warshal maps\A06 floyd warshal maps.vcxproj", "{5E3E9C29-4B4A-4B8C-BEA8-E16230E5918F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E3E9C29-4B4A-4B8C-BEA8-E16230E5918F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5E3E9C29-4B4A-4B8C-BEA8-E16230E5918F}.Debug|Win32.Build.0 = Debug|Win32
+		{5E3E9C29-4B4A-4B8C-BEA8-E16230E5918F}.Release|Win32.ActiveCfg = Release|Win32
+		{5E3E9C29-4B4A-4B8C-BEA8-E16230E5918F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
